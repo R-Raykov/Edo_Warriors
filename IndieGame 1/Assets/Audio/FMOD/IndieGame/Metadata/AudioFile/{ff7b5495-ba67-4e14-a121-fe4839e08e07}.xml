@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{ff7b5495-ba67-4e14-a121-fe4839e08e07}">
+        <property name="assetPath">
+            <value>Geisha_Hurt_01_Master.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.2901814058956915</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{2414e6ec-8bd6-4ccb-88e4-bdb7a325a63b}</destination>
+        </relationship>
+    </object>
+</objects>

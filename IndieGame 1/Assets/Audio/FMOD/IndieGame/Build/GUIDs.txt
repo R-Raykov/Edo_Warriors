@@ -1,0 +1,31 @@
+{72a8d6ec-ba95-408a-929a-0090164d6073} event:/Enemies/Ghost/Attack
+{3f1527a6-4595-4027-8855-31466acaf1df} event:/Enemies/Ghost/Dying
+{4fc7264b-ef28-4c92-850a-83771bfeee22} event:/Enemies/Ghost/Hurt
+{17f26565-f721-45ab-94eb-8c9e6a4ad0a6} event:/Enemies/Kappa/Attack
+{4bcd96f7-9105-432e-b3a5-a37829d69e38} event:/Enemies/Kappa/Dying
+{f5c130c1-fcc1-498d-a3b0-d38df15b39b0} event:/Enemies/Kappa/Hurt
+{8a62bf96-68fb-4c1e-84bc-1200fa6e905e} event:/Enemies/Umbrella/Attack
+{1f522d92-bf0f-4612-afb8-a6a9ef249d16} event:/Enemies/Umbrella/Dying
+{0392b7c7-88fb-475f-8164-e5a3aaa0cce4} event:/Enemies/Umbrella/Hurt
+{14872341-a059-4951-ab66-4886ec38b1ce} event:/MainMusic/Menu Music
+{d2d4b2b0-6153-437c-90ab-a3f477a4653e} event:/MainMusic/Song1
+{686c11a8-41a5-4f91-82a8-81291d672b5d} event:/MainMusic/Song2
+{ad2325e8-7663-4719-9b1a-f815a985b524} event:/MainMusic/Song3
+{323b1c8f-a23c-486d-96fd-f53a2ada04cb} event:/Player/Geisha/Attack
+{d9eec3e9-96b8-4ca6-a3e6-d5acf46812ae} event:/Player/Geisha/Basic shot (Skill1)
+{63006bc5-8a4c-4405-b98d-bb738c48b9eb} event:/Player/Geisha/Dying
+{d0db6698-bf00-4436-9aa5-8cf16a9883f0} event:/Player/Geisha/Hurt
+{6bc8b9d5-5597-4ebc-99f7-bf29a3c13b94} event:/Player/Geisha/Sound blast(Skill4)
+{38921cec-1ed5-49ee-b266-47875accc5b1} event:/Player/Geisha/Sound wave (Skill2)
+{f1ef43a9-d0a1-43e9-988a-acf7045e1437} event:/Player/Geisha/Teleport (Skill3)
+{f8615089-f197-47aa-9c0e-6d8a4b8b914d} event:/Player/Samurai/Attack
+{ba8fb7c7-859f-48fb-afeb-e2879eff0926} event:/Player/Samurai/Dying
+{d1db50be-d42b-4cd9-b291-90da1615026c} event:/Player/Samurai/Hurt
+{9f9a298f-25a7-42e4-b6eb-2a4de7012e99} event:/Player/Samurai/KatanaHit
+{cfbed667-57b1-451a-9f74-b0d381171a65} event:/Player/Samurai/KatanaSlash(Skill1)
+{83b91aa4-795c-4991-9a51-a56b71c9c3d5} event:/Player/Samurai/Turbine (Skill3)
+{fa9bfd8a-e3c8-4ea8-a4cd-f6af549f694e} event:/Player/Samurai/Wind dash(Skill2)
+{218e4248-4523-475a-aeb5-6ee521bb62ec} event:/Player/Samurai/Wind slash (Skill4)
+{3819ffa7-9eaf-4428-8985-5c71018f3ae6} bus:/
+{220553ed-1edf-483f-a58d-7a5a9a4af47a} bus:/Reverb
+{529b3ffe-a067-4032-baae-95731d6f2c31} bank:/Master Bank

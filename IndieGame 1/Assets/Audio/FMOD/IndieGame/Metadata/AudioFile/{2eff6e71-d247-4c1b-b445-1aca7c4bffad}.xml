@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{2eff6e71-d247-4c1b-b445-1aca7c4bffad}">
+        <property name="assetPath">
+            <value>fx_swing_blade_medium_04.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>32</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>0.81440625</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{2414e6ec-8bd6-4ccb-88e4-bdb7a325a63b}</destination>
+        </relationship>
+    </object>
+</objects>

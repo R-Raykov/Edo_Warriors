@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<nextMoves>
+    <move key="I">
+        <damage></damage>
+        <nextMoves>
+            <move key="I">
+                <damage></damage>
+                <nextMoves>
+                    <!-- more moves -->
+                </nextMoves>
+            </move>
+            <move key="O">
+
+            </move>
+            <move key="P">
+
+            </move>
+        </nextMoves>
+    </move>
+    <move key="O">
+
+    </move>
+    <move key="P">
+
+    </move>
+</nextMoves>

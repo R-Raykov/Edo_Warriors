@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="EventFolder" id="{efc76078-b8e2-4732-b6d4-e2a91feb1a8a}">
+        <property name="name">
+            <value>Geisha</value>
+        </property>
+        <relationship name="folder">
+            <destination>{235f5494-6847-4e7c-a6cf-7190d314ed8a}</destination>
+        </relationship>
+    </object>
+</objects>

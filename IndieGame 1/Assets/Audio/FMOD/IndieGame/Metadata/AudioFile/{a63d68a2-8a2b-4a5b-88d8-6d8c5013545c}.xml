@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{a63d68a2-8a2b-4a5b-88d8-6d8c5013545c}">
+        <property name="assetPath">
+            <value>wpn_swing_axe_02.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>32</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>0.63393750000000004</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{2414e6ec-8bd6-4ccb-88e4-bdb7a325a63b}</destination>
+        </relationship>
+    </object>
+</objects>

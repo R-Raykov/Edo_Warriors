@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2fb15e5319126fb4fbc1201de2f71350
+timeCreated: 1512320217
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _explosionObject: {fileID: 1909745235075498, guid: c6c718d5264e400489192ad7b7c1bd5a,
+      type: 2}
+  - _p1Coins: {fileID: 1929536002493832, guid: 356c62a7e2877bb4d8e7c21b2ff28ed8, type: 2}
+  - _p2Coins: {fileID: 1131694673226008, guid: 5a5a019acc7820749835ed8c2177d451, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

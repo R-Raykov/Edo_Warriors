@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: d91f0ea5c944acd41b22b1c677662d4e
+timeCreated: 1512401978
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Geisha2
+    100004: SkinBindingTest___Character_Base___Geisha_Animation:GROUP_L_Foot
+    100006: SkinBindingTest___Character_Base___Geisha_Animation:GROUP_R_Foot
+    100008: SkinBindingTest___Character_Base___Geisha_Animation:Head
+    100010: SkinBindingTest___Character_Base___Geisha_Animation:Jaw
+    100012: SkinBindingTest___Character_Base___Geisha_Animation:L_Ankle
+    100014: SkinBindingTest___Character_Base___Geisha_Animation:L_CTRL_Foot
+    100016: SkinBindingTest___Character_Base___Geisha_Animation:L_Elbow
+    100018: SkinBindingTest___Character_Base___Geisha_Animation:L_Foot
+    100020: SkinBindingTest___Character_Base___Geisha_Animation:L_Hand1
+    100022: SkinBindingTest___Character_Base___Geisha_Animation:L_Hand2
+    100024: SkinBindingTest___Character_Base___Geisha_Animation:L_Hand3
+    100026: SkinBindingTest___Character_Base___Geisha_Animation:L_Hip
+    100028: SkinBindingTest___Character_Base___Geisha_Animation:L_IK_Ankle
+    100030: SkinBindingTest___Character_Base___Geisha_Animation:L_IK_Toe
+    100032: SkinBindingTest___Character_Base___Geisha_Animation:L_INV_Ankle
+    100034: SkinBindingTest___Character_Base___Geisha_Animation:L_INV_FootRoll
+    100036: SkinBindingTest___Character_Base___Geisha_Animation:L_INV_Toe
+    100038: SkinBindingTest___Character_Base___Geisha_Animation:L_Knee
+    100040: SkinBindingTest___Character_Base___Geisha_Animation:L_Shoulder
+    100042: SkinBindingTest___Character_Base___Geisha_Animation:L_Thumb1
+    100044: SkinBindingTest___Character_Base___Geisha_Animation:L_Thumb2
+    100046: SkinBindingTest___Character_Base___Geisha_Animation:L_Thumb3
+    100048: SkinBindingTest___Character_Base___Geisha_Animation:L_Wrist
+    100050: SkinBindingTest___Character_Base___Geisha_Animation:MAIN_Controller
+    100052: SkinBindingTest___Character_Base___Geisha_Animation:Neck
+    100054: SkinBindingTest___Character_Base___Geisha_Animation:R_Ankle
+    100056: SkinBindingTest___Character_Base___Geisha_Animation:R_CTRL_Foot
+    100058: SkinBindingTest___Character_Base___Geisha_Animation:R_Elbow
+    100060: SkinBindingTest___Character_Base___Geisha_Animation:R_Foot
+    100062: SkinBindingTest___Character_Base___Geisha_Animation:R_Hand1
+    100064: SkinBindingTest___Character_Base___Geisha_Animation:R_Hand2
+    100066: SkinBindingTest___Character_Base___Geisha_Animation:R_Hand3
+    100068: SkinBindingTest___Character_Base___Geisha_Animation:R_Hip
+    100070: SkinBindingTest___Character_Base___Geisha_Animation:R_IK_Ankle
+    100072: SkinBindingTest___Character_Base___Geisha_Animation:R_IK_Toe
+    100074: SkinBindingTest___Character_Base___Geisha_Animation:R_INV_Ankle
+    100076: SkinBindingTest___Character_Base___Geisha_Animation:R_INV_FootRoll
+    100078: SkinBindingTest___Character_Base___Geisha_Animation:R_INV_Toe
+    100080: SkinBindingTest___Character_Base___Geisha_Animation:R_Knee
+    100082: SkinBindingTest___Character_Base___Geisha_Animation:R_Shoulder1
+    100084: SkinBindingTest___Character_Base___Geisha_Animation:R_Thumb1
+    100086: SkinBindingTest___Character_Base___Geisha_Animation:R_Thumb2
+    100088: SkinBindingTest___Character_Base___Geisha_Animation:R_Thumb3
+    100090: SkinBindingTest___Character_Base___Geisha_Animation:R_Wrist
+    100092: SkinBindingTest___Character_Base___Geisha_Animation:RIGS_and_CONTROLLERS
+    100094: SkinBindingTest___Character_Base___Geisha_Animation:Spine_1
+    100096: SkinBindingTest___Character_Base___Geisha_Animation:Spine_2
+    100098: SkinBindingTest___Character_Base___Geisha_Animation:Spine_3
+    100100: SkinBindingTest___Character_Base___Geisha_Animation:transform1
+    400000: //RootNode
+    400002: Geisha2
+    400004: SkinBindingTest___Character_Base___Geisha_Animation:GROUP_L_Foot
+    400006: SkinBindingTest___Character_Base___Geisha_Animation:GROUP_R_Foot
+    400008: SkinBindingTest___Character_Base___Geisha_Animation:Head
+    400010: SkinBindingTest___Character_Base___Geisha_Animation:Jaw
+    400012: SkinBindingTest___Character_Base___Geisha_Animation:L_Ankle
+    400014: SkinBindingTest___Character_Base___Geisha_Animation:L_CTRL_Foot
+    400016: SkinBindingTest___Character_Base___Geisha_Animation:L_Elbow
+    400018: SkinBindingTest___Character_Base___Geisha_Animation:L_Foot
+    400020: SkinBindingTest___Character_Base___Geisha_Animation:L_Hand1
+    400022: SkinBindingTest___Character_Base___Geisha_Animation:L_Hand2
+    400024: SkinBindingTest___Character_Base___Geisha_Animation:L_Hand3
+    400026: SkinBindingTest___Character_Base___Geisha_Animation:L_Hip
+    400028: SkinBindingTest___Character_Base___Geisha_Animation:L_IK_Ankle
+    400030: SkinBindingTest___Character_Base___Geisha_Animation:L_IK_Toe
+    400032: SkinBindingTest___Character_Base___Geisha_Animation:L_INV_Ankle
+    400034: SkinBindingTest___Character_Base___Geisha_Animation:L_INV_FootRoll
+    400036: SkinBindingTest___Character_Base___Geisha_Animation:L_INV_Toe
+    400038: SkinBindingTest___Character_Base___Geisha_Animation:L_Knee
+    400040: SkinBindingTest___Character_Base___Geisha_Animation:L_Shoulder
+    400042: SkinBindingTest___Character_Base___Geisha_Animation:L_Thumb1
+    400044: SkinBindingTest___Character_Base___Geisha_Animation:L_Thumb2
+    400046: SkinBindingTest___Character_Base___Geisha_Animation:L_Thumb3
+    400048: SkinBindingTest___Character_Base___Geisha_Animation:L_Wrist
+    400050: SkinBindingTest___Character_Base___Geisha_Animation:MAIN_Controller
+    400052: SkinBindingTest___Character_Base___Geisha_Animation:Neck
+    400054: SkinBindingTest___Character_Base___Geisha_Animation:R_Ankle
+    400056: SkinBindingTest___Character_Base___Geisha_Animation:R_CTRL_Foot
+    400058: SkinBindingTest___Character_Base___Geisha_Animation:R_Elbow
+    400060: SkinBindingTest___Character_Base___Geisha_Animation:R_Foot
+    400062: SkinBindingTest___Character_Base___Geisha_Animation:R_Hand1
+    400064: SkinBindingTest___Character_Base___Geisha_Animation:R_Hand2
+    400066: SkinBindingTest___Character_Base___Geisha_Animation:R_Hand3
+    400068: SkinBindingTest___Character_Base___Geisha_Animation:R_Hip
+    400070: SkinBindingTest___Character_Base___Geisha_Animation:R_IK_Ankle
+    400072: SkinBindingTest___Character_Base___Geisha_Animation:R_IK_Toe
+    400074: SkinBindingTest___Character_Base___Geisha_Animation:R_INV_Ankle
+    400076: SkinBindingTest___Character_Base___Geisha_Animation:R_INV_FootRoll
+    400078: SkinBindingTest___Character_Base___Geisha_Animation:R_INV_Toe
+    400080: SkinBindingTest___Character_Base___Geisha_Animation:R_Knee
+    400082: SkinBindingTest___Character_Base___Geisha_Animation:R_Shoulder1
+    400084: SkinBindingTest___Character_Base___Geisha_Animation:R_Thumb1
+    400086: SkinBindingTest___Character_Base___Geisha_Animation:R_Thumb2
+    400088: SkinBindingTest___Character_Base___Geisha_Animation:R_Thumb3
+    400090: SkinBindingTest___Character_Base___Geisha_Animation:R_Wrist
+    400092: SkinBindingTest___Character_Base___Geisha_Animation:RIGS_and_CONTROLLERS
+    400094: SkinBindingTest___Character_Base___Geisha_Animation:Spine_1
+    400096: SkinBindingTest___Character_Base___Geisha_Animation:Spine_2
+    400098: SkinBindingTest___Character_Base___Geisha_Animation:Spine_3
+    400100: SkinBindingTest___Character_Base___Geisha_Animation:transform1
+    4300000: Geisha2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Geisha2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 358f90322f041624fba42f9388126a20, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

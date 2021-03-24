@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 5ef61e2ed91a5d243a946e8973384e79
+timeCreated: 1512300757
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Grass_Large
+    100004: Grass_Large3
+    100006: Grass_Large4
+    100008: Grass_Large5
+    100010: group3
+    100012: group4
+    100014: transform124
+    100016: transform125
+    100018: transform126
+    100020: Grass_Large6
+    100022: Grass_Small10
+    100024: Grass_Small11
+    100026: Grass_Small12
+    100028: Grass_Small13
+    100030: Grass_Small14
+    100032: Grass_Small15
+    100034: Grass_Small16
+    100036: Grass_Small17
+    100038: Grass_Small7
+    100040: Grass_Small9
+    100042: transform127
+    100044: transform128
+    100046: transform129
+    100048: transform130
+    100050: transform131
+    100052: transform132
+    100054: transform133
+    100056: transform134
+    100058: transform135
+    100060: transform136
+    100062: transform137
+    400000: //RootNode
+    400002: Grass_Large
+    400004: Grass_Large3
+    400006: Grass_Large4
+    400008: Grass_Large5
+    400010: group3
+    400012: group4
+    400014: transform124
+    400016: transform125
+    400018: transform126
+    400020: Grass_Large6
+    400022: Grass_Small10
+    400024: Grass_Small11
+    400026: Grass_Small12
+    400028: Grass_Small13
+    400030: Grass_Small14
+    400032: Grass_Small15
+    400034: Grass_Small16
+    400036: Grass_Small17
+    400038: Grass_Small7
+    400040: Grass_Small9
+    400042: transform127
+    400044: transform128
+    400046: transform129
+    400048: transform130
+    400050: transform131
+    400052: transform132
+    400054: transform133
+    400056: transform134
+    400058: transform135
+    400060: transform136
+    400062: transform137
+    2300000: //RootNode
+    2300002: Grass_Large
+    2300004: Grass_Large6
+    3300000: //RootNode
+    3300002: Grass_Large
+    3300004: Grass_Large6
+    4300000: Grass_Large
+    4300002: Grass_Large3
+    4300004: Grass_Large6
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: f14cae0b25aacd24eb928852dc988ba3, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
